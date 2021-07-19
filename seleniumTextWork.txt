@@ -1,0 +1,6 @@
+https://lambdatest.github.io/sample-todo-app/   for checking tesst
+
+Selenium is a browser automation library. Most often used for testing web-applications, Selenium may be used for any task that requires automating interaction with the browser.
+
+
+npm i selenium-webdriver
